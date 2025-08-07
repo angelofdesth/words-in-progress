@@ -1,0 +1,28 @@
+--
+title: 'cooking update 2'
+date: '2025-08-03'
+--
+
+> I was lying on my bed, legs dead tired from standing for an hour and a half cooking, scrolling reels as one does. I saw one that was captioned "when you start your internship and realize that your free time is 90% cooking and cleaning." 
+
+In preparation for writing this post, I looked back at the last time I wrote about cooking (https://listed.to/@angelofd3sth/46706/cooking-update). Wow, so many things have changed. I don't even recall the time where I ate cornflakes instead of granola in my breakfast yoghurt parfait. I'm long due another cooking update. 
+
+This summer is another step for me towards total adult independence (scary). There isn't a meal plan attached to my REU (which I've heard that some other REUs have that), and not many convenient food options (not that I would've wanted to eat out everyday anyways). Thus, I had to cook for myself basically every meal.
+
+I'm not going to lie, I really like cooking. I was really starting to branch out this past semester. For example, I worked with a slab of raw meat (pork) for the first time and made a really yummy bell pepper stir fry. Before that, I grilled a couple fillets of salmon and made napa cabbage shrimp dumplings from scratch. 
+
+I've done a lot more since then at this REU because of the extra free time that I have, and I'm super excited to share the stuff that I've made hehe. Let's get started! 
+
+* Henan chicken rice - a Singaporean staple, though I've never had it when I was in the country. Honestly, I really love this recipe because it doesn't require a whole lot of ingredients AND (because) you don't waste a single part of the chicken. Chicken thighs go into a big pot of aromatics. You then cook the rice in the broth (though my rice didn't really taste any different when I made it). You top the rice with the chicken and a sauce made from rendering the chicken fat and skin. It's a simple and hearty meal. The one downside was that I spent 3 hours on a Sunday making it. I was so tired from it that I'm probably not going to make it again. 
+* Beef udon - shoutout to G for telling me about this recipe that she made everyday last summer. This is honestly such a good and simple meal. What I do is first saute some onions then little strips of beef on top. I pour various sauces and water on top, turn off the fire and let it simmer. Meanwhile, I quickly cook some frozen udon and place it on top of the dish. The beef juices are really yummy. 
+* I learned how to use the oven thanks to F, a friend at the REU. He likes to cook and often invites people to cook with him to learn how other people cook. We made beef and bell pepper stir fry at my place, and at his place he showed me that you can get really tasty meals just oven baking veggies and chicken. Obviously, I've used an oven before to bake desserts, but I've never used it for a meal before. I was sold on the oven from that moment on and I started to make one of my favorite veggies: brussel sprouts. God I love oven-roasted brussel sprouts with a little salt and oil. It's soooo good. I have it pretty often now. 
+* My first oven recipe was baking salmon! It's also my first fully western main dish that I've cooked entirely by myself (unfortunately, when I attempt to make western food by vibes, it always turns out tasting oddly Asian). I got a bunch of aromatics for it and placed them on top of the salmon, along with a lot of lemon slices. It came out heavenly. The salmon absolutely melted in my mouth and it was just so good. 
+* Another fish recipe that I've been making pretty often is just steamed white fish. It's really simple! You just top the fish fillets with some soy sauce and green onion and steam for 10-12 minutes. 
+* F and I also made coconut curry shrimp this past week. I wanted to make pina coladas but I bought coconut cream instead of cream of coconut (because they didn't have cream of coconut at the store so I assumed that coconut cream was the same. It's not btw) and I had no use for the coconut cream. I voiced my coconut issues as I ate lunch with my coworkers and F said he had curry and so we cooked together that meal. It was kind of too salty but it's fine lmao. 
+* I also learnt how to make burgers! We made some for fourth of July. They're surprisingly easy (I just don't get enough reels on my feed for them, so I was never exposed enough to them) and they taste oh so good. Who doesn't love some meat and oil? 
+
+Those are the more notable foods that I've cooked so far. Cooking is so much fun. It's also true that the more that you cook, the faster you become at it. If you average it out, it's faster than eating at dining halls. It's also way healthier! At least my watch tells me that there are less AGEs in my blood stream ever since I started cooking for myself. I don't really know what those are, but I do know that the less you have of them the better (something about aging?), and eating boiled veggies is a good way to lower them. 
+
+Also, I realized that cooking for yourself is not necessarily that cheap. I also realized that where you shop really matters. The Publix on campus is almost double the price of the nearby (well, it's a mile away but there are shuttles) Walmart, which is beat by Aldi. I used to not really look at grocery prices because how tf am I supposed to remember those numbers, but I've started to take pictures of my receipts and I'm def going to start comparing between places when I get back to Boston. Honestly, I might take a trip to the Star Market instead of doing groceries at Hmart and Target. 
+
+Aight that's it. See y'all (hopefully in less than a month). 

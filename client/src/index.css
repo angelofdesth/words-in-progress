@@ -1,0 +1,40 @@
+@import 'tailwindcss';
+@import "@fontsource/roboto";
+
+
+:root {
+    --font-sans: Roboto, sans-serif;
+    --background: #f5f5f5;
+    --text: #2d2d2d;
+    --accent: #7f5cff;
+    --muted: #777777;
+    --highlight: #efeaff;
+}
+
+.dark {
+    --background: #1e1e1e;
+    --text: #eaeaea;
+    --muted: #aaaaaa;
+    --highlight: #2d2d2d;
+}
+
+@theme {
+    --color-background: var(--background);
+    --color-text: var(--text);
+    --color-accent: var(--accent);
+    --color-muted: var(--muted);
+    --color-highlight: var(--highlight);
+}
+
+@layer base {
+    
+    body {
+        @apply text-text;
+        @apply font-sans
+    }
+
+    h1 {
+        @apply text-text;
+        @apply text-5xl mb-4;
+    }
+}
